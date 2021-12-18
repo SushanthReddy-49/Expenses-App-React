@@ -11,6 +11,6 @@ const Calendar = (props) => {
       <div className="date">{date}</div>
     </div>
   );
-}
+};
 
 export default Calendar;
